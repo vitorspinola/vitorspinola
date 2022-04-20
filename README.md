@@ -1,11 +1,5 @@
 By Vitor Spinola.
 
-- 🔭 I’m currently working at Scala DataCenters.
-- 🌱 I’m learning JavaScript and Node.js.
-- 💬 Ask me about anything, but I probably won't have all the answers.
-- 📫 How to reach me: contato.vrspinola@gmail.com
-
-
 <div align="center">
   <a href="https://github.com/vitorspiola">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorspinola&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
