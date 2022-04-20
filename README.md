@@ -1,4 +1,3 @@
-By Vitor Spinola.
 
 <div align="center">
   <a href="https://github.com/vitorspiola">
