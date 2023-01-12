@@ -20,6 +20,6 @@
 
 
 
-
+<br>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vitorspinola&" alt="vitorspinola" /></p>
 
