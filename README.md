@@ -3,10 +3,10 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 - 💬 Ask me about:
--  **Python, Flask and AutoIT.**
+**Python, Flask and AutoIT.**
 
 - 📫 How to reach me:
--  **contato.vrspinola02@gmail.com**
+**contato.vrspinola02@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
