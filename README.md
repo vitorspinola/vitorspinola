@@ -2,9 +2,11 @@
 <h3 align="center">An aspiring developer and student from Brazil.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
-- 💬 Ask me about **Python, Flask and AutoIT.**
+- 💬 Ask me about:
+-  **Python, Flask and AutoIT.**
 
-- 📫 How to reach me **contato.vrspinola02@gmail.com**
+- 📫 How to reach me:
+-  **contato.vrspinola02@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
