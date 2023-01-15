@@ -20,7 +20,8 @@
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/vitorspinola"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/vitorspinola" /></a></p><br>
 
 <div align="right">
-[![GitHub Streak](https://streak-stats.demolab.com?user=vitorspinola&theme=gruvbox_duo&border_radius=0.7&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D)(https://git.io/streak-stats)
+
+  [![GitHub Streak](https://streak-stats.demolab.com?user=vitorspinola&theme=gruvbox_duo&border_radius=0.7&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D)(https://git.io/streak-stats)
 </div>
 
 
