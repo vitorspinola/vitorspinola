@@ -21,7 +21,7 @@
 
 
 
-![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorspinola&show_icons=false&theme=radical)
+
 
 
 
