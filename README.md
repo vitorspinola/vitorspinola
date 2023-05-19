@@ -24,8 +24,8 @@
 <div align="right">
 
   ![GitHub Streak](https://streak-stats.demolab.com?user=vitorspinola&theme=gruvbox_duo&border_radius=0.7&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D)      
-  
-
+</div>  
+<div align="left">
 <a href="https://app.daily.dev/vitorspinola"><img src="https://api.daily.dev/devcards/44749be280ce48d582bab3c9cee854d5.png?r=x6f" width="400" alt="Vitor Spinola's Dev Card"/></a>
 </div>
 
