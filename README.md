@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Vitor Spinola</h1>
-<h3 align="center">An aspiring developer and student from Brazil.</h3>
+<h3 align="center">An aspiring python developer and student from Brazil.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 - 💬 Ask me about:
-**Python, Flask and AutoIT.**
+**Python, Flask, MOngoDB, SQL Server, Pandas, Numpy, Datalakes, Sellenium, Plotly, Plotly Dash Apps and AutoIT.**
 
 - 📫 How to reach me:
-**contato.vrspinola02@gmail.com**
+**contato.vrspinola@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
