@@ -8,7 +8,7 @@
 - 📫 How to reach me:
 **contato.vrspinola@gmail.com**
 
-- <b IF you are interested to work with me, please send me an email, my repositories are private as I use them for work-only:>
+- IF you are interested to work with me, please send me an email, my repositories are private as I use them for work-only
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/vr_spinola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vr_spinola" height="30" width="40" /></a>
