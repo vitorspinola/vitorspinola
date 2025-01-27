@@ -1,5 +1,5 @@
 # Hi 👋, I'm Vitor Spinola
-### An aspiring python developer and student from Brazil.
+
 
 # 💫 About Me:
 🔭 I’m currently working with Back-End development (Typescript, Python and Java)<br>👯 I’m looking to collaborate on anything that helps me grow.<br>🤝 I’m looking for help with improving my skills as fast as possible<br>🌱 I’m currently learning GoLang and Flutter<br>💬 Ask me about anything, If I don't know it, we will discover it together.<br>⚡ Linux user thanks to @victorguidi
